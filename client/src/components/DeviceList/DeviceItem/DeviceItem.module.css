@@ -1,0 +1,12 @@
+.device_item{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+}
+.desc{
+    display: flex;
+    justify-content: space-between;
+}
+.rating{
+    display: flex;
+}

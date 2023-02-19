@@ -1,0 +1,15 @@
+.device_page{
+    display: flex;
+    flex-direction: column;
+}
+.device_block_top{
+    display: flex;
+}
+.add_basket{
+    display: flex;
+    flex-direction: column;
+}
+.device_price{
+    display: flex;
+    align-items: center;
+}

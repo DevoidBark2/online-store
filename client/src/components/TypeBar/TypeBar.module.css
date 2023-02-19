@@ -1,0 +1,21 @@
+.typebar{
+    border: 1px solid black;
+    width: 300px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    padding: 10px;
+}
+.type_item{
+    background: #d2cece;
+    padding: 10px;
+}
+.type_item:hover{
+    cursor: pointer;
+    background: #959696;
+}
+.active{
+    background: #959696;
+    padding: 10px;
+}
